@@ -19,6 +19,17 @@
 - **Amazon Clone:** A frontend Amazon homepage clone built using HTML and CSS.
 - **Automatic Plant Watering System:** Currently developing an Arduino-based project.
 
+- ## 🚀 My Projects
+
+### Beginner Developer Ecosystem Portfolio
+A collection of my work in Linux, Bash scripting, Python, REST APIs, Git and GitHub.
+
+- **GitHub Repository:** https://github.com/Aditya995-afk/DeveloperPortfolio
+- **Live Portfolio Website:** https://aditya995-afk.github.io/DeveloperPortfolio/
+
+### Amazon Clone
+A frontend project built using HTML and CSS.
+
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/aditya-sharma-89ab18430/)
 - [GitHub](https://github.com/Aditya995-afk)
